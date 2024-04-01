@@ -1,6 +1,9 @@
 # MyntraProjectCSS
 This project is a clone of the popular e-commerce website Myntra, created solely using HTML and CSS. The aim of this project was to practice and demonstrate proficiency in frontend web development skills, particularly in styling and layout using CSS.
 
+### View the Project
+You can view the hosted project [here](https://anushac96.github.io/MyntraProjectCSS/).
+
 ## Overview
 Myntra Clone is a single-page web application that replicates the main features and layout of the Myntra website. It includes:
 
